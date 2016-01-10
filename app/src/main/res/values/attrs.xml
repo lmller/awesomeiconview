@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AwesomeIconView">
+        <attr name="iconSize" format="dimension" />
+        <attr name="iconColor" format="color" />
+        <attr name="fontAwesomeIcon" format="enum">
+            <enum name="Amazon" value="1"/>
+            <enum name="Ambulance" value="2"/>
+            <enum name="Android" value="3"/>
+            <enum name="Apple" value="4"/>
+            <enum name="Code" value="5"/>
+            <enum name="Rebel" value="6"/>
+        </attr>
+    </declare-styleable>
+</resources>
