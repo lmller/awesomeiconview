@@ -8,8 +8,22 @@
             <enum name="Ambulance" value="2"/>
             <enum name="Android" value="3"/>
             <enum name="Apple" value="4"/>
-            <enum name="Code" value="5"/>
-            <enum name="Rebel" value="6"/>
+            <enum name="Chrome" value="6"/>
+            <enum name="Code" value="7"/>
+            <enum name="FacebookOfficial" value="8"/>
+            <enum name="Firefox" value="9"/>
+            <enum name="GitHub" value="10"/>
+            <enum name="Graduation" value="11"/>
+            <enum name="Group" value="12"/>
+            <enum name="Home" value="13"/>
+            <enum name="Rebel" value="14"/>
+            <enum name="Spaceshuttle" value="15"/>
+            <enum name="Steam" value="16"/>
+            <enum name="Twitter" value="17"/>
+            <enum name="Wikipedia" value="18"/>
+            <enum name="Wifi" value="19"/>
+            <enum name="User" value="20"/>
+            <enum name="Xing" value="21"/>
         </attr>
     </declare-styleable>
 </resources>

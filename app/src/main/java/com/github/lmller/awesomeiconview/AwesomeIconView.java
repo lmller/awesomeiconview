@@ -133,8 +133,22 @@ public class AwesomeIconView extends View {
 		AMBULANCE("\uF0F9"),
 		ANDROID("\uF17B"),
 		APPLE("\uF179"),
+		CHROME("\uF268"),
 		CODE("\uF121"),
-		REBEL("\uF1D0");
+		FACEBOOK_OFFICIAL("\uF230"),
+		FIREFOX("\uF269"),
+		GITHUB("\uF09B"),
+		GRADUATION("\uF19D"),
+		GROUP("\uF0C0"),
+		HOME("\uF015"),
+		REBEL("\uF1D0"),
+		SPACESHUTTLE("\uF197"),
+		STEAM("\uF1B6"),
+		TWITTER("\uF099"),
+		WIKIPEDIA("\uF266"),
+		WIFI("\uF1EB"),
+		USER("\uF007"),
+		XING("\uF168");
 
 		FontAwesomeIcon(String unicode){
 			this.unicode = unicode;
