@@ -47,6 +47,6 @@ Or from code:
 
 Check the Font Awesome Cheat Sheet at https://fortawesome.github.io/Font-Awesome/cheatsheet/ to pick the icon you want.
 
-**Note:** This library is currently in early alpha, os it only supports around 20 different icons. -Will be updated ASAP.-
+**Note:** This library is currently in early alpha, os it only supports around 20 different icons. ~~Will be updated ASAP.~~
 
 
